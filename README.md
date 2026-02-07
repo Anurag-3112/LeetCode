@@ -37,3 +37,4 @@ Each problem is organized **day-wise**, and every day contains:
 
 | Day | Problem Name | Difficulty | Topic | LeetCode Link |
 |----|-------------|------------|-------|---------------|
+| Day-01 | - | - | - | - |
