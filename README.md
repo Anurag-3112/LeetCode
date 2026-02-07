@@ -31,6 +31,11 @@ Each problem is organized **day-wise**, and every day contains:
 - Clean and readable Java solution
 
 ---
+## 📬 Connect
+
+- LeetCode Profile: https://leetcode.com/u/_AnuragKumar_
+- GitHub Profile: https://github.com/Anurag-3112
+---
 
 
 ## 📅 Daily Progress Tracker
