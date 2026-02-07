@@ -37,4 +37,4 @@ Each problem is organized **day-wise**, and every day contains:
 
 | Day | Problem Name | Difficulty | Topic | LeetCode Link |
 |----|-------------|------------|-------|---------------|
-| Day-01 | - | - | - | - |
+| Day-01 | Two Sum | Easy | Array, HashMap | https://leetcode.com/problems/two-sum/ |
