@@ -31,6 +31,11 @@ Each problem is organized **day-wise**, and every day contains:
 - Clean and readable Java solution
 
 ---
+## 📬 Connect
+
+- LeetCode Profile: https://leetcode.com/u/_AnuragKumar_
+- GitHub Profile: https://github.com/Anurag-3112
+---
 
 
 ## 📅 Daily Progress Tracker
@@ -38,3 +43,4 @@ Each problem is organized **day-wise**, and every day contains:
 | Day | Problem Name | Difficulty | Topic | LeetCode Link |
 |----|-------------|------------|-------|---------------|
 | Day-01 | Two Sum | Easy | Array, HashMap | https://leetcode.com/problems/two-sum/ |
+| Day-02 | Minimum Deletions to Make String Balanced | Medium | String, Prefix Sum, Dynamic Programming, Greedy | https://leetcode.com/problems/minimum-deletions-to-make-string-balanced/ |
