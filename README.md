@@ -44,3 +44,4 @@ Each problem is organized **day-wise**, and every day contains:
 |----|-------------|------------|-------|---------------|
 | Day-01 | Two Sum | Easy | Array, HashMap | https://leetcode.com/problems/two-sum/ |
 | Day-02 | Minimum Deletions to Make String Balanced | Medium | String, Prefix Sum, Dynamic Programming, Greedy | https://leetcode.com/problems/minimum-deletions-to-make-string-balanced/ |
+| Day-03 | Balanced Binary Tree | Easy | Tree, Depth-First Search, Binary Tree | https://leetcode.com/problems/balanced-binary-tree/ |
