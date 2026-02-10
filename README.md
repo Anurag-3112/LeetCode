@@ -46,4 +46,4 @@ Each problem is organized **day-wise**, and every day contains:
 | Day-02 | Minimum Deletions to Make String Balanced | Medium | String, Prefix Sum, Dynamic Programming, Greedy | https://leetcode.com/problems/minimum-deletions-to-make-string-balanced/ |
 | Day-03 | Balanced Binary Tree | Easy | Tree, Depth-First Search, Binary Tree | https://leetcode.com/problems/balanced-binary-tree/ |
 | Day-04 | Balance a Binary Search Tree | Medium | Binary Search Tree, Tree, Divide and Conquer, Inorder Traversal | https://leetcode.com/problems/balance-a-binary-search-tree/ |
-| Day-05 | Longest Balanced Subarray I | Easy | Array, Prefix Sum, Hash Map | https://leetcode.com/problems/longest-balanced-subarray-i/ |
+| Day-05 | Longest Balanced Subarray I | Medium | Array, Prefix Sum, Hash Map | https://leetcode.com/problems/longest-balanced-subarray-i/ |
