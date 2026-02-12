@@ -47,4 +47,4 @@ Each problem is organized **day-wise**, and every day contains:
 | Day-03 | Balanced Binary Tree | Easy | Tree, Depth-First Search, Binary Tree | https://leetcode.com/problems/balanced-binary-tree/ |
 | Day-04 | Balance a Binary Search Tree | Medium | Binary Search Tree, Tree, Divide and Conquer, Inorder Traversal | https://leetcode.com/problems/balance-a-binary-search-tree/ |
 | Day-05 | Longest Balanced Subarray I | Medium | Array, Prefix Sum, Hash Map | https://leetcode.com/problems/longest-balanced-subarray-i/ |
-| Day-06 | Longest Balanced Subarray II | Medium | Array, Prefix Sum, Hash Map | https://leetcode.com/problems/longest-balanced-subarray-ii/ |
+| Day-06 | Longest Balanced Subarray II | Hard | Array, Prefix Sum, Hash Map | https://leetcode.com/problems/longest-balanced-subarray-ii/ |
