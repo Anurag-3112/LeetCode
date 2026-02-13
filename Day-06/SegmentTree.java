@@ -1,3 +1,5 @@
+import java.util.*;
+
 class SegmentTree {
     public int n, size;
     public int[] sum, mn, mx;
