@@ -50,3 +50,4 @@ Each problem is organized **day-wise**, and every day contains:
 | Day-06 | Longest Balanced Subarray II | Hard | Array, Prefix Sum, Hash Map | https://leetcode.com/problems/longest-balanced-subarray-ii/ |
 | Day-07 | Longest Balanced Substring I | Medium | String, Two Pointers, Counting | https://leetcode.com/problems/longest-balanced-substring-i/ |
 | Day-08 | Longest Balanced Substring II | Medium | String, Sliding Window, Hash Map, Prefix Sum | https://leetcode.com/problems/longest-balanced-substring-ii/ |
+| Day-09 | Champagne Tower | Medium | Dynamic Programming, Simulation, Array | https://leetcode.com/problems/champagne-tower/ |
