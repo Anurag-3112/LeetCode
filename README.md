@@ -53,3 +53,4 @@ Each problem is organized **day-wise**, and every day contains:
 | Day-09 | Champagne Tower | Medium | Dynamic Programming, Simulation, Array | https://leetcode.com/problems/champagne-tower/ |
 | Day-10 | Add Binary | Easy | String, Math, Simulation | https://leetcode.com/problems/add-binary/ |
 | Day-11 | Reverse Bits | Easy | Bit Manipulation, Divide and Conquer | https://leetcode.com/problems/reverse-bits/ |
+| Day-12 | Binary Watch | Easy | Backtracking, Bit Manipulation, Enumeration | https://leetcode.com/problems/binary-watch/ |
