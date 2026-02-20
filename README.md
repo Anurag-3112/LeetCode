@@ -55,3 +55,4 @@ Each problem is organized **day-wise**, and every day contains:
 | Day-11 | Reverse Bits | Easy | Bit Manipulation, Divide and Conquer | https://leetcode.com/problems/reverse-bits/ |
 | Day-12 | Binary Watch | Easy | Backtracking, Bit Manipulation, Enumeration | https://leetcode.com/problems/binary-watch/ |
 | Day-13 | Binary Number with Alternating Bits | Easy | Bit Manipulation, Math | https://leetcode.com/problems/binary-number-with-alternating-bits/ |
+| Day-14 | Count Binary Substrings | Easy | String, Two Pointers, Counting | https://leetcode.com/problems/count-binary-substrings/ |
