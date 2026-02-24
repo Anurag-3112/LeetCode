@@ -58,3 +58,4 @@ Each problem is organized **day-wise**, and every day contains:
 | Day-14 | Count Binary Substrings | Easy | String, Two Pointers, Counting | https://leetcode.com/problems/count-binary-substrings/ |
 | Day-15 | Special Binary String | Hard | String, Recursion, Greedy, Sorting | https://leetcode.com/problems/special-binary-string/ |
 | Day-16 | Prime Number of Set Bits in Binary Representation | Easy | Bit Manipulation, Math, Counting | https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation/ |
+| Day-17 | Binary Gap | Easy | Bit Manipulation | https://leetcode.com/problems/binary-gap/ |
