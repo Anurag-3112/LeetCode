@@ -59,3 +59,5 @@ Each problem is organized **day-wise**, and every day contains:
 | Day-15 | Special Binary String | Hard | String, Recursion, Greedy, Sorting | https://leetcode.com/problems/special-binary-string/ |
 | Day-16 | Prime Number of Set Bits in Binary Representation | Easy | Bit Manipulation, Math, Counting | https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation/ |
 | Day-17 | Binary Gap | Easy | Bit Manipulation | https://leetcode.com/problems/binary-gap/ |
+| Day-18 | Check If a String Contains All Binary Codes of Size K | Medium | String, Sliding Window, Hash Set, Bit Manipulation | https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k/ |
+| Day-19 | Sum of Root To Leaf Binary Numbers | Easy | Tree, Depth-First Search, Binary Tree, Bit Manipulation | https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/ |
