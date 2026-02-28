@@ -64,3 +64,4 @@ Each problem is organized **day-wise**, and every day contains:
 | Day-20 | Sort Integers by The Number of 1 Bits | Easy | Sorting, Bit Manipulation, Counting | https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/ |
 | Day-21 | Number of Steps to Reduce a Number in Binary Representation to One | Medium | String, Simulation, Bit Manipulation | https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one/ |
 | Day-22 | Minimum Operations to Equalize Binary String | Hard | String, Greedy, Dynamic Programming | https://leetcode.com/problems/minimum-operations-to-equalize-binary-string/ |
+| Day-23 | Concatenation of Consecutive Binary Numbers | Medium | Bit Manipulation, Math, Simulation | https://leetcode.com/problems/concatenation-of-consecutive-binary-numbers/ |
