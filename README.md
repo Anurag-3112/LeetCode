@@ -8,7 +8,7 @@ The goal of this repository is to:
 - Prepare for **technical interviews**
 - Maintain **daily coding consistency**
 
----
+--- 
 
 ## 📌 About This Repository
 
