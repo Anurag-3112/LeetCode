@@ -65,3 +65,4 @@ Each problem is organized **day-wise**, and every day contains:
 | Day-21 | Number of Steps to Reduce a Number in Binary Representation to One | Medium | String, Simulation, Bit Manipulation | https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one/ |
 | Day-22 | Minimum Operations to Equalize Binary String | Hard | String, Greedy, Dynamic Programming | https://leetcode.com/problems/minimum-operations-to-equalize-binary-string/ |
 | Day-23 | Concatenation of Consecutive Binary Numbers | Medium | Bit Manipulation, Math, Simulation | https://leetcode.com/problems/concatenation-of-consecutive-binary-numbers/ |
+| Day-24 | Minimum Swaps to Arrange a Binary Grid | Medium | Greedy, Array, Simulation | https://leetcode.com/problems/minimum-swaps-to-arrange-a-binary-grid/ |
