@@ -1,5 +1,13 @@
 # 🚀 LeetCode Daily Challenge – Java
 
+<!-- LEETCODE-STATS-START -->
+updated_readme = re.sub(
+    r"<!-- LEETCODE-STATS-START -->[\s\S]*<!-- LEETCODE-STATS-END -->",
+    f"<!-- LEETCODE-STATS-START -->\n{stats_section}\n<!-- LEETCODE-STATS-END -->",
+    readme
+)
+<!-- LEETCODE-STATS-END -->
+
 This repository contains my **daily LeetCode problem-solving journey**, where I consistently solve at least **one problem every day** using **Java**.
 
 The goal of this repository is to:
