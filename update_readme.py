@@ -66,3 +66,20 @@ def get_leetcode_stats():
         }
     except:
         return None
+
+stats = get_leetcode_stats()
+
+if stats:
+    stats_section = f"""
+## LeetCode Stats
+
+Total Solved: {stats['total']}
+
+Easy: {stats['easy']}
+Medium: {stats['medium']}
+Hard: {stats['hard']}
+
+Global Ranking: {stats['ranking']}
+"""
+else:
+    stats_section = "LeetCode stats unavailable"
