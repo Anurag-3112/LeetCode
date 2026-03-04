@@ -67,3 +67,4 @@ Each problem is organized **day-wise**, and every day contains:
 | Day-23 | Concatenation of Consecutive Binary Numbers | Medium | Bit Manipulation, Math, Simulation | https://leetcode.com/problems/concatenation-of-consecutive-binary-numbers/ |
 | Day-24 | Minimum Swaps to Arrange a Binary Grid | Medium | Greedy, Array, Simulation | https://leetcode.com/problems/minimum-swaps-to-arrange-a-binary-grid/ |
 | Day-25 | Partitioning Into Minimum Number Of Deci-Binary Numbers | Medium | Greedy, String, Math | https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/ |
+| Day-26 | Find Kth Bit in Nth Binary String | Medium | Recursion, String, Divide and Conquer | https://leetcode.com/problems/find-kth-bit-in-nth-binary-string/ |
