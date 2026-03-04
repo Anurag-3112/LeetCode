@@ -13,9 +13,6 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Install dependencies
-        run: pip install requests
-  
       - name: Checkout repository
         uses: actions/checkout@v4
 
@@ -23,6 +20,9 @@ jobs:
         uses: actions/setup-python@v5
         with:
           python-version: '3.x'
+
+      - name: Install dependencies
+        run: pip install requests
 
       - name: Update README
         run: python update_readme.py
