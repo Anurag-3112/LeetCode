@@ -1,4 +1,4 @@
-# 🚀 LeetCode Daily Challenge – Java
+# LeetCode Daily Challenge – Java   ![LeetCode Badge](https://img.shields.io/badge/LeetCode-_AnuragKumar_-orange?logo=leetcode)
 
 This repository contains my **daily LeetCode problem-solving journey**, where I consistently solve at least **one problem every day** using **Java**.
 
@@ -10,9 +10,7 @@ The goal of this repository is to:
 
 ---
 
-<!-- LEETCODE-STATS-START -->
-LeetCode stats unavailable
-<!-- LEETCODE-STATS-END -->
+![LeetCode Heatmap](https://leetcard.jacoblin.cool/_AnuragKumar_?theme=light&ext=heatmap)
 
 --- 
 
