@@ -45,10 +45,6 @@ updated_readme = re.sub(
     readme
 )
 
-with open(README_FILE, "w", encoding="utf-8") as f:
-    f.write(updated_readme)
-
-
 LEETCODE_USERNAME = "Anurag-3112"
 
 def get_leetcode_stats():
