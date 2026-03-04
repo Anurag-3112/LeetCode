@@ -83,3 +83,12 @@ Global Ranking: {stats['ranking']}
 """
 else:
     stats_section = "LeetCode stats unavailable"
+
+readme = re.sub(
+    r"<!-- LEETCODE-STATS-START -->[\s\S]*<!-- LEETCODE-STATS-END -->",
+    f"<!-- LEETCODE-STATS-START -->\n{stats_section}\n<!-- LEETCODE-STATS-END -->",
+    readme
+)
+
+with open(README_FILE, "w", encoding="utf-8") as f:
+    f.write(readme)
