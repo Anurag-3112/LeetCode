@@ -11,7 +11,7 @@ The goal of this repository is to:
 ---
 
 <!-- LEETCODE-STATS-START -->
-Loading LeetCode stats...
+LeetCode stats unavailable
 <!-- LEETCODE-STATS-END -->
 
 --- 
