@@ -45,7 +45,7 @@ updated_readme = re.sub(
     readme
 )
 
-LEETCODE_USERNAME = "Anurag-3112"
+LEETCODE_USERNAME = "_AnuragKumar_"
 
 def get_leetcode_stats():
     url = f"https://leetcode-stats-api.herokuapp.com/{LEETCODE_USERNAME}"
