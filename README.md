@@ -68,3 +68,4 @@ Each problem is organized **day-wise**, and every day contains:
 | Day-24 | Minimum Swaps to Arrange a Binary Grid | Medium | Greedy, Array, Simulation | https://leetcode.com/problems/minimum-swaps-to-arrange-a-binary-grid/ |
 | Day-25 | Partitioning Into Minimum Number Of Deci-Binary Numbers | Medium | Greedy, String, Math | https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/ |
 | Day-26 | Find Kth Bit in Nth Binary String | Medium | Recursion, String, Divide and Conquer | https://leetcode.com/problems/find-kth-bit-in-nth-binary-string/ |
+| Day-27 | Special Positions in a Binary Matrix | Easy | Array, Matrix, Counting | https://leetcode.com/problems/special-positions-in-a-binary-matrix/ |
