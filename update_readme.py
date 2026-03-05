@@ -1,5 +1,6 @@
 import os
 import re
+import requests
 
 README_FILE = "README.md"
 
@@ -44,5 +45,46 @@ updated_readme = re.sub(
     readme
 )
 
+LEETCODE_USERNAME = "_AnuragKumar_"
+
+def get_leetcode_stats():
+    url = f"https://leetcode-stats-api.herokuapp.com/{LEETCODE_USERNAME}"
+    try:
+        res = requests.get(url)
+        data = res.json()
+
+        return {
+            "total": data["totalSolved"],
+            "easy": data["easySolved"],
+            "medium": data["mediumSolved"],
+            "hard": data["hardSolved"],
+            "ranking": data.get("ranking", "N/A"),
+        }
+    except:
+        return None
+
+stats = get_leetcode_stats()
+
+if stats:
+    stats_section = f"""
+## LeetCode Stats
+
+Total Solved: {stats['total']}
+
+Easy: {stats['easy']}
+Medium: {stats['medium']}
+Hard: {stats['hard']}
+
+Global Ranking: {stats['ranking']}
+"""
+else:
+    stats_section = "LeetCode stats unavailable"
+
+readme = re.sub(
+    r"<!-- LEETCODE-STATS-START -->[\s\S]*<!-- LEETCODE-STATS-END -->",
+    f"<!-- LEETCODE-STATS-START -->\n{stats_section}\n<!-- LEETCODE-STATS-END -->",
+    readme
+)
+
 with open(README_FILE, "w", encoding="utf-8") as f:
-    f.write(updated_readme)
+    f.write(readme)
