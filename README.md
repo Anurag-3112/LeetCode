@@ -74,3 +74,4 @@ Each problem is organized **day-wise**, and every day contains:
 | Day-26 | Find Kth Bit in Nth Binary String | Medium | Recursion, String, Divide and Conquer | https://leetcode.com/problems/find-kth-bit-in-nth-binary-string/ |
 | Day-27 | Special Positions in a Binary Matrix | Easy | Array, Matrix, Counting | https://leetcode.com/problems/special-positions-in-a-binary-matrix/ |
 | Day-28 | Minimum Changes To Make Alternating Binary String | Easy | String, Greedy | https://leetcode.com/problems/minimum-changes-to-make-alternating-binary-string/ |
+| Day-29 | Check if Binary String Has at Most One Segment of Ones | Easy | String | https://leetcode.com/problems/check-if-binary-string-has-at-most-one-segment-of-ones/ |
