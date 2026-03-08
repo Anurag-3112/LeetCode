@@ -75,3 +75,4 @@ Each problem is organized **day-wise**, and every day contains:
 | Day-27 | Special Positions in a Binary Matrix | Easy | Array, Matrix, Counting | https://leetcode.com/problems/special-positions-in-a-binary-matrix/ |
 | Day-28 | Minimum Changes To Make Alternating Binary String | Easy | String, Greedy | https://leetcode.com/problems/minimum-changes-to-make-alternating-binary-string/ |
 | Day-29 | Check if Binary String Has at Most One Segment of Ones | Easy | String | https://leetcode.com/problems/check-if-binary-string-has-at-most-one-segment-of-ones/ |
+| Day-30 | Minimum Number of Flips to Make the Binary String Alternating | Medium | String, Sliding Window, Greedy | https://leetcode.com/problems/minimum-number-of-flips-to-make-the-binary-string-alternating/ |
