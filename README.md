@@ -77,3 +77,4 @@ Each problem is organized **day-wise**, and every day contains:
 | Day-29 | Check if Binary String Has at Most One Segment of Ones | Easy | String | https://leetcode.com/problems/check-if-binary-string-has-at-most-one-segment-of-ones/ |
 | Day-30 | Minimum Number of Flips to Make the Binary String Alternating | Medium | String, Sliding Window, Greedy | https://leetcode.com/problems/minimum-number-of-flips-to-make-the-binary-string-alternating/ |
 | Day-31 | Find Unique Binary String | Medium | String, Backtracking, Hash Set | https://leetcode.com/problems/find-unique-binary-string/ |
+| Day-32 | Find All Possible Stable Binary Arrays I | Medium | Dynamic Programming, Combinatorics | https://leetcode.com/problems/find-all-possible-stable-binary-arrays-i/ |
