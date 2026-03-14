@@ -81,3 +81,4 @@ Each problem is organized **day-wise**, and every day contains:
 | Day-33 | Find All Possible Stable Binary Arrays II | Hard | Dynamic Programming, Combinatorics | https://leetcode.com/problems/find-all-possible-stable-binary-arrays-ii/ |
 | Day-34 | Complement of Base 10 Integer | Easy | Bit Manipulation, Math | https://leetcode.com/problems/complement-of-base-10-integer/ |
 | Day-35 | Maximize Spanning Tree Stability with Upgrades | Hard | Graph, Minimum Spanning Tree, Greedy, Union Find | https://leetcode.com/problems/maximize-spanning-tree-stability-with-upgrades/ |
+| Day-36 | Minimum Number of Seconds to Make Mountain Height Zero | Medium | Binary Search, Simulation, Math | https://leetcode.com/problems/minimum-number-of-seconds-to-make-mountain-height-zero/ |
