@@ -4,7 +4,7 @@ class Solution {
     private ArrayList<Long> val;  
     private long a, b;   
 
-    public Fancy() {
+    public Solution() {
         val = new ArrayList<>(); 
         a = 1;
         b = 0;
