@@ -86,3 +86,4 @@ Each problem is organized **day-wise**, and every day contains:
 | Day-38 | Fancy Sequence | Hard | Design, Math, Modular Arithmetic, Lazy Propagation | https://leetcode.com/problems/fancy-sequence/ |
 | Day-39 | Get Biggest Three Rhombus Sums in a Grid | Medium | Array, Matrix, Prefix Sum, Enumeration | https://leetcode.com/problems/get-biggest-three-rhombus-sums-in-a-grid/ |
 | Day-40 | Largest Submatrix With Rearrangements | Medium | Array, Matrix, Sorting, Greedy | https://leetcode.com/problems/largest-submatrix-with-rearrangements/ |
+| Day-41 | Count Submatrices with Top-Left Element and Sum Less Than k | Medium | Array, Matrix, Prefix Sum | https://leetcode.com/problems/count-submatrices-with-top-left-element-and-sum-less-than-k/ |
