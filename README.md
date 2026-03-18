@@ -85,3 +85,4 @@ Each problem is organized **day-wise**, and every day contains:
 | Day-37 | The k-th Lexicographical String of All Happy Strings of Length n | Medium | Backtracking, String, Lexicographical Order | https://leetcode.com/problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/ |
 | Day-38 | Fancy Sequence | Hard | Design, Math, Modular Arithmetic, Lazy Propagation | https://leetcode.com/problems/fancy-sequence/ |
 | Day-39 | Get Biggest Three Rhombus Sums in a Grid | Medium | Array, Matrix, Prefix Sum, Enumeration | https://leetcode.com/problems/get-biggest-three-rhombus-sums-in-a-grid/ |
+| Day-40 | Largest Submatrix With Rearrangements | Medium | Array, Matrix, Sorting, Greedy | https://leetcode.com/problems/largest-submatrix-with-rearrangements/ |
