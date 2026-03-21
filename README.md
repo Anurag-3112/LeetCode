@@ -89,3 +89,4 @@ Each problem is organized **day-wise**, and every day contains:
 | Day-41 | Count Submatrices with Top-Left Element and Sum Less Than k | Medium | Array, Matrix, Prefix Sum | https://leetcode.com/problems/count-submatrices-with-top-left-element-and-sum-less-than-k/ |
 | Day-42 | Count Submatrices With Equal Frequency of X and Y | Medium | Array, Matrix, Prefix Sum, Hash Map | https://leetcode.com/problems/count-submatrices-with-equal-frequency-of-x-and-y/ |
 | Day-43 | Minimum Absolute Difference in Sliding Submatrix | Hard | Matrix, Sliding Window, Data Structures | https://leetcode.com/problems/minimum-absolute-difference-in-sliding-submatrix/ |
+| Day-44 | Flip Square Submatrix Vertically | Easy | Matrix, Simulation | https://leetcode.com/problems/flip-square-submatrix-vertically/ |
