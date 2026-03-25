@@ -93,3 +93,4 @@ Each problem is organized **day-wise**, and every day contains:
 | Day-45 | Determine Whether Matrix Can Be Obtained By Rotation | Easy | Matrix, Simulation | https://leetcode.com/problems/determine-whether-matrix-can-be-obtained-by-rotation/ |
 | Day-46 | Maximum Non Negative Product in a Matrix | Medium | Dynamic Programming, Matrix | https://leetcode.com/problems/maximum-non-negative-product-in-a-matrix/ |
 | Day-47 | Construct Product Matrix | Medium | Matrix, Prefix Product, Simulation | https://leetcode.com/problems/construct-product-matrix/ |
+| Day-48 | Equal Sum Grid Partition I | Medium | Matrix, Prefix Sum | https://leetcode.com/problems/equal-sum-grid-partition-i/ |
