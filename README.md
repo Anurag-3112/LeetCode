@@ -97,3 +97,4 @@ Each problem is organized **day-wise**, and every day contains:
 | Day-49 | Equal Sum Grid Partition II | Hard | Matrix, Prefix Sum | https://leetcode.com/problems/equal-sum-grid-partition-ii/ |
 | Day-50 | Matrix Similarity After Cyclic Shifts | Easy | Matrix, Simulation | https://leetcode.com/problems/matrix-similarity-after-cyclic-shifts/ |
 | Day-51 | Find the String with LCP | Hard | String, Greedy, Matrix | https://leetcode.com/problems/find-the-string-with-lcp/ |
+| Day-52 | Check if Strings Can be Made Equal With Operations I | Easy | String, Greedy | https://leetcode.com/problems/check-if-strings-can-be-made-equal-with-operations-i/ |
