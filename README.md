@@ -99,3 +99,4 @@ Each problem is organized **day-wise**, and every day contains:
 | Day-51 | Find the String with LCP | Hard | String, Greedy, Matrix | https://leetcode.com/problems/find-the-string-with-lcp/ |
 | Day-52 | Check if Strings Can be Made Equal With Operations I | Easy | String, Greedy | https://leetcode.com/problems/check-if-strings-can-be-made-equal-with-operations-i/ |
 | Day-53 | - | - | - | - |
+| Day-54 | Lexicographically Smallest Generated String | Medium | String, Greedy | https://leetcode.com/problems/lexicographically-smallest-generated-string/ |
