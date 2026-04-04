@@ -101,3 +101,4 @@ Each problem is organized **day-wise**, and every day contains:
 | Day-53 | - | - | - | - |
 | Day-54 | Lexicographically Smallest Generated String | Medium | String, Greedy | https://leetcode.com/problems/lexicographically-smallest-generated-string/ |
 | Day-55 | Decode the Slanted Ciphertext | Medium | String, Simulation | https://leetcode.com/problems/decode-the-slanted-ciphertext/ |
+| Day-56 | Maximum Amount of Money Robot Can Earn | Medium | Dynamic Programming, Matrix | https://leetcode.com/problems/maximum-amount-of-money-robot-can-earn/ |
