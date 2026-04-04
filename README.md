@@ -100,3 +100,4 @@ Each problem is organized **day-wise**, and every day contains:
 | Day-52 | Check if Strings Can be Made Equal With Operations I | Easy | String, Greedy | https://leetcode.com/problems/check-if-strings-can-be-made-equal-with-operations-i/ |
 | Day-53 | - | - | - | - |
 | Day-54 | Lexicographically Smallest Generated String | Medium | String, Greedy | https://leetcode.com/problems/lexicographically-smallest-generated-string/ |
+| Day-55 | Decode the Slanted Ciphertext | Medium | String, Simulation | https://leetcode.com/problems/decode-the-slanted-ciphertext/ |
