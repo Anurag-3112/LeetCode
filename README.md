@@ -98,7 +98,7 @@ Each problem is organized **day-wise**, and every day contains:
 | Day-50 | Matrix Similarity After Cyclic Shifts | Easy | Matrix, Simulation | https://leetcode.com/problems/matrix-similarity-after-cyclic-shifts/ |
 | Day-51 | Find the String with LCP | Hard | String, Greedy, Matrix | https://leetcode.com/problems/find-the-string-with-lcp/ |
 | Day-52 | Check if Strings Can be Made Equal With Operations I | Easy | String, Greedy | https://leetcode.com/problems/check-if-strings-can-be-made-equal-with-operations-i/ |
-| Day-53 | - | - | - | - |
+| Day-53 | Check if Strings Can be Made Equal With Operations II | Medium | String, Hashing, Greedy | https://leetcode.com/problems/check-if-strings-can-be-made-equal-with-operations-ii/ |
 | Day-54 | Lexicographically Smallest Generated String | Medium | String, Greedy | https://leetcode.com/problems/lexicographically-smallest-generated-string/ |
 | Day-55 | Decode the Slanted Ciphertext | Medium | String, Simulation | https://leetcode.com/problems/decode-the-slanted-ciphertext/ |
 | Day-56 | Maximum Amount of Money Robot Can Earn | Medium | Dynamic Programming, Matrix | https://leetcode.com/problems/maximum-amount-of-money-robot-can-earn/ |
