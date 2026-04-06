@@ -103,3 +103,4 @@ Each problem is organized **day-wise**, and every day contains:
 | Day-55 | Decode the Slanted Ciphertext | Medium | String, Simulation | https://leetcode.com/problems/decode-the-slanted-ciphertext/ |
 | Day-56 | Maximum Amount of Money Robot Can Earn | Medium | Dynamic Programming, Matrix | https://leetcode.com/problems/maximum-amount-of-money-robot-can-earn/ |
 | Day-57 | Robot Collisions | Hard | Stack, Simulation | https://leetcode.com/problems/robot-collisions/ |
+| Day-58 | Robot Return to Origin | Easy | String, Simulation | https://leetcode.com/problems/robot-return-to-origin/ |
