@@ -108,3 +108,4 @@ Each problem is organized **day-wise**, and every day contains:
 | Day-60 | Walking Robot Simulation II | Medium | Design, Simulation | https://leetcode.com/problems/walking-robot-simulation-ii/ |
 | Day-61 | XOR After Range Multiplication Queries I | Medium | Array, Bit Manipulation, Prefix XOR | https://leetcode.com/problems/xor-after-range-multiplication-queries-i/ |
 | Day-62 | XOR After Range Multiplication Queries II | Hard | Array, Bit Manipulation, Prefix XOR | https://leetcode.com/problems/xor-after-range-multiplication-queries-ii/ |
+| Day-63 | Minimum Distance Between Three Equal Elements I | Easy | Array, Hash Map | https://leetcode.com/problems/minimum-distance-between-three-equal-elements-i/ |
