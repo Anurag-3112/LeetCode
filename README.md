@@ -112,3 +112,4 @@ Each problem is organized **day-wise**, and every day contains:
 | Day-64 | Minimum Distance Between Three Equal Elements II | Medium | Array, Hash Map, Sliding Window | https://leetcode.com/problems/minimum-distance-between-three-equal-elements-ii/ |
 | Day-65 | Minimum Distance to Type a Word Using Two Fingers | Hard | Dynamic Programming, String | https://leetcode.com/problems/minimum-distance-to-type-a-word-using-two-fingers/ |
 | Day-66 | Minimum Distance to the Target Element | Easy | Array | https://leetcode.com/problems/minimum-distance-to-the-target-element/ |
+| Day-67 | Minimum Total Distance Traveled | Hard | Dynamic Programming, Sorting | https://leetcode.com/problems/minimum-total-distance-traveled/ |
