@@ -113,3 +113,5 @@ Each problem is organized **day-wise**, and every day contains:
 | Day-65 | Minimum Distance to Type a Word Using Two Fingers | Hard | Dynamic Programming, String | https://leetcode.com/problems/minimum-distance-to-type-a-word-using-two-fingers/ |
 | Day-66 | Minimum Distance to the Target Element | Easy | Array | https://leetcode.com/problems/minimum-distance-to-the-target-element/ |
 | Day-67 | Minimum Total Distance Traveled | Hard | Dynamic Programming, Sorting | https://leetcode.com/problems/minimum-total-distance-traveled/ |
+| Day-68 | Shortest Distance to Target String in a Circular Array | Easy | Array, String, Simulation | https://leetcode.com/problems/shortest-distance-to-target-string-in-a-circular-array/ |
+| Day-69 | Closest Equal Element Queries | Medium | Array, Hash Map, Binary Search | https://leetcode.com/problems/closest-equal-element-queries/ |
