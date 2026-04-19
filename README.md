@@ -117,3 +117,4 @@ Each problem is organized **day-wise**, and every day contains:
 | Day-69 | Closest Equal Element Queries | Medium | Array, Hash Map, Binary Search | https://leetcode.com/problems/closest-equal-element-queries/ |
 | Day-70 | Minimum Absolute Distance Between Mirror Pairs | Medium | Array, Two Pointers, Hash Map | https://leetcode.com/problems/minimum-absolute-distance-between-mirror-pairs/ |
 | Day-71 | Mirror Distance of an Integer | Easy | Math, Simulation | https://leetcode.com/problems/mirror-distance-of-an-integer/ |
+| Day-72 | Maximum Distance Between a Pair of Values | Medium | Array, Two Pointers, Binary Search | https://leetcode.com/problems/maximum-distance-between-a-pair-of-values/ |
