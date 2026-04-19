@@ -115,3 +115,4 @@ Each problem is organized **day-wise**, and every day contains:
 | Day-67 | Minimum Total Distance Traveled | Hard | Dynamic Programming, Sorting | https://leetcode.com/problems/minimum-total-distance-traveled/ |
 | Day-68 | Shortest Distance to Target String in a Circular Array | Easy | Array, String, Simulation | https://leetcode.com/problems/shortest-distance-to-target-string-in-a-circular-array/ |
 | Day-69 | Closest Equal Element Queries | Medium | Array, Hash Map, Binary Search | https://leetcode.com/problems/closest-equal-element-queries/ |
+| Day-70 | Minimum Absolute Distance Between Mirror Pairs | Medium | Array, Two Pointers, Hash Map | https://leetcode.com/problems/minimum-absolute-distance-between-mirror-pairs/ |
