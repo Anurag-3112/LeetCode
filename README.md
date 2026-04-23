@@ -121,3 +121,4 @@ Each problem is organized **day-wise**, and every day contains:
 | Day-73 | Two Furthest Houses With Different Colors | Easy | Array, Greedy | https://leetcode.com/problems/two-furthest-houses-with-different-colors/ |
 | Day-74 | Minimize Hamming Distance After Swap Operations | Medium | Union Find, Graph, Hash Map | https://leetcode.com/problems/minimize-hamming-distance-after-swap-operations/ |
 | Day-75 | Words Within Two Edits of Dictionary | Medium | String, Two Pointers | https://leetcode.com/problems/words-within-two-edits-of-dictionary/ |
+| Day-76 | Sum of Distances | Medium | Array, Hash Map, Prefix Sum | https://leetcode.com/problems/sum-of-distances/ |
