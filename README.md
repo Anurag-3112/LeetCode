@@ -118,3 +118,6 @@ Each problem is organized **day-wise**, and every day contains:
 | Day-70 | Minimum Absolute Distance Between Mirror Pairs | Medium | Array, Two Pointers, Hash Map | https://leetcode.com/problems/minimum-absolute-distance-between-mirror-pairs/ |
 | Day-71 | Mirror Distance of an Integer | Easy | Math, Simulation | https://leetcode.com/problems/mirror-distance-of-an-integer/ |
 | Day-72 | Maximum Distance Between a Pair of Values | Medium | Array, Two Pointers, Binary Search | https://leetcode.com/problems/maximum-distance-between-a-pair-of-values/ |
+| Day-73 | Two Furthest Houses With Different Colors | Easy | Array, Greedy | https://leetcode.com/problems/two-furthest-houses-with-different-colors/ |
+| Day-74 | Minimize Hamming Distance After Swap Operations | Medium | Union Find, Graph, Hash Map | https://leetcode.com/problems/minimize-hamming-distance-after-swap-operations/ |
+| Day-75 | Words Within Two Edits of Dictionary | Medium | String, Two Pointers | https://leetcode.com/problems/words-within-two-edits-of-dictionary/ |
