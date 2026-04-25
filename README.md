@@ -122,3 +122,4 @@ Each problem is organized **day-wise**, and every day contains:
 | Day-74 | Minimize Hamming Distance After Swap Operations | Medium | Union Find, Graph, Hash Map | https://leetcode.com/problems/minimize-hamming-distance-after-swap-operations/ |
 | Day-75 | Words Within Two Edits of Dictionary | Medium | String, Two Pointers | https://leetcode.com/problems/words-within-two-edits-of-dictionary/ |
 | Day-76 | Sum of Distances | Medium | Array, Hash Map, Prefix Sum | https://leetcode.com/problems/sum-of-distances/ |
+| Day-77 | Furthest Point From Origin | Easy | String, Greedy | https://leetcode.com/problems/furthest-point-from-origin/ |
