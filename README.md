@@ -123,3 +123,4 @@ Each problem is organized **day-wise**, and every day contains:
 | Day-75 | Words Within Two Edits of Dictionary | Medium | String, Two Pointers | https://leetcode.com/problems/words-within-two-edits-of-dictionary/ |
 | Day-76 | Sum of Distances | Medium | Array, Hash Map, Prefix Sum | https://leetcode.com/problems/sum-of-distances/ |
 | Day-77 | Furthest Point From Origin | Easy | String, Greedy | https://leetcode.com/problems/furthest-point-from-origin/ |
+| Day-78 | Maximize the Distance Between Points on a Square | Hard | Geometry, Binary Search | https://leetcode.com/problems/maximize-the-distance-between-points-on-a-square/ |
