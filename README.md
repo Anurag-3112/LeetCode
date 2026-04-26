@@ -124,3 +124,4 @@ Each problem is organized **day-wise**, and every day contains:
 | Day-76 | Sum of Distances | Medium | Array, Hash Map, Prefix Sum | https://leetcode.com/problems/sum-of-distances/ |
 | Day-77 | Furthest Point From Origin | Easy | String, Greedy | https://leetcode.com/problems/furthest-point-from-origin/ |
 | Day-78 | Maximize the Distance Between Points on a Square | Hard | Geometry, Binary Search | https://leetcode.com/problems/maximize-the-distance-between-points-on-a-square/ |
+| Day-79 | Detect Cycles in 2D Grid | Medium | Graph, DFS, Union Find | https://leetcode.com/problems/detect-cycles-in-2d-grid/ |
