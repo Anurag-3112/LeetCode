@@ -126,3 +126,4 @@ Each problem is organized **day-wise**, and every day contains:
 | Day-78 | Maximize the Distance Between Points on a Square | Hard | Geometry, Binary Search | https://leetcode.com/problems/maximize-the-distance-between-points-on-a-square/ |
 | Day-79 | Detect Cycles in 2D Grid | Medium | Graph, DFS, Union Find | https://leetcode.com/problems/detect-cycles-in-2d-grid/ |
 | Day-80 | Check if There is a Valid Path in a Grid | Medium | Graph, BFS, DFS | https://leetcode.com/problems/check-if-there-is-a-valid-path-in-a-grid/ |
+| Day-81 | Minimum Operations to Make a Uni-Value Grid | Medium | Array, Matrix, Sorting | https://leetcode.com/problems/minimum-operations-to-make-a-uni-value-grid/ |
