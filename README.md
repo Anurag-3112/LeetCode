@@ -128,3 +128,5 @@ Each problem is organized **day-wise**, and every day contains:
 | Day-80 | Check if There is a Valid Path in a Grid | Medium | Graph, BFS, DFS | https://leetcode.com/problems/check-if-there-is-a-valid-path-in-a-grid/ |
 | Day-81 | Minimum Operations to Make a Uni-Value Grid | Medium | Array, Matrix, Sorting | https://leetcode.com/problems/minimum-operations-to-make-a-uni-value-grid/ |
 | Day-82 | Maximum Score From Grid Operations | Hard | Dynamic Programming, Matrix | https://leetcode.com/problems/maximum-score-from-grid-operations/ |
+| Day-83 | Maximum Path Score in a Grid | Medium | Dynamic Programming, Matrix | https://leetcode.com/problems/maximum-path-score-in-a-grid/ |
+| Day-84 | Rotate Function | Medium | Array, Math, Dynamic Programming | https://leetcode.com/problems/rotate-function/ |
