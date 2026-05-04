@@ -130,3 +130,6 @@ Each problem is organized **day-wise**, and every day contains:
 | Day-82 | Maximum Score From Grid Operations | Hard | Dynamic Programming, Matrix | https://leetcode.com/problems/maximum-score-from-grid-operations/ |
 | Day-83 | Maximum Path Score in a Grid | Medium | Dynamic Programming, Matrix | https://leetcode.com/problems/maximum-path-score-in-a-grid/ |
 | Day-84 | Rotate Function | Medium | Array, Math, Dynamic Programming | https://leetcode.com/problems/rotate-function/ |
+| Day-85 | Rotated Digits | Medium | Dynamic Programming, Math | https://leetcode.com/problems/rotated-digits/ |
+| Day-86 | Rotate String | Easy | String | https://leetcode.com/problems/rotate-string/ |
+| Day-87 | Rotate Image | Medium | Array, Matrix | https://leetcode.com/problems/rotate-image/ |
