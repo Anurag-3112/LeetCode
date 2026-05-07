@@ -135,3 +135,4 @@ Each problem is organized **day-wise**, and every day contains:
 | Day-87 | Rotate Image | Medium | Array, Matrix | https://leetcode.com/problems/rotate-image/ |
 | Day-88 | Rotate List | Medium | Linked List, Two Pointers | https://leetcode.com/problems/rotate-list/ |
 | Day-89 | Rotating the Box | Medium | Matrix, Simulation | https://leetcode.com/problems/rotating-the-box/ |
+| Day-90 | Jump Game IX | Medium | Dynamic Programming, Greedy | https://leetcode.com/problems/jump-game-ix/ |
