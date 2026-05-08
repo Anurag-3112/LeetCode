@@ -136,3 +136,4 @@ Each problem is organized **day-wise**, and every day contains:
 | Day-88 | Rotate List | Medium | Linked List, Two Pointers | https://leetcode.com/problems/rotate-list/ |
 | Day-89 | Rotating the Box | Medium | Matrix, Simulation | https://leetcode.com/problems/rotating-the-box/ |
 | Day-90 | Jump Game IX | Medium | Dynamic Programming, Greedy | https://leetcode.com/problems/jump-game-ix/ |
+| Day-91 | Minimum Jumps to Reach End via Prime Teleportation | Hard | Graph, BFS, Number Theory | https://leetcode.com/problems/minimum-jumps-to-reach-end-via-prime-teleportation/ |
