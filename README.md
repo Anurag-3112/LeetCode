@@ -140,3 +140,6 @@ Each problem is organized **day-wise**, and every day contains:
 | Day-92 | Cyclically Rotating a Grid | Medium | Matrix, Simulation | https://leetcode.com/problems/cyclically-rotating-a-grid/ |
 | Day-93 | Maximum Number of Jumps to Reach the Last Index | Medium | Dynamic Programming, Array | https://leetcode.com/problems/maximum-number-of-jumps-to-reach-the-last-index/ |
 | Day-94 | Separate the Digits in an Array | Easy | Array, Math, Simulation | https://leetcode.com/problems/separate-the-digits-in-an-array/ |
+| Day-95 | Check if Array is Good | Easy | Array, Sorting, Hash Map | https://leetcode.com/problems/check-if-array-is-good/ |
+| Day-96 | Minimum Moves to Make Array Complementary | Medium | Array, Prefix Sum, Greedy | https://leetcode.com/problems/minimum-moves-to-make-array-complementary/ |
+| Day-97 | Minimum Initial Energy to Finish Tasks | Hard | Greedy, Sorting | https://leetcode.com/problems/minimum-initial-energy-to-finish-tasks/ |
