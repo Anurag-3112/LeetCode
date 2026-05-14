@@ -139,3 +139,4 @@ Each problem is organized **day-wise**, and every day contains:
 | Day-91 | Minimum Jumps to Reach End via Prime Teleportation | Hard | Graph, BFS, Number Theory | https://leetcode.com/problems/minimum-jumps-to-reach-end-via-prime-teleportation/ |
 | Day-92 | Cyclically Rotating a Grid | Medium | Matrix, Simulation | https://leetcode.com/problems/cyclically-rotating-a-grid/ |
 | Day-93 | Maximum Number of Jumps to Reach the Last Index | Medium | Dynamic Programming, Array | https://leetcode.com/problems/maximum-number-of-jumps-to-reach-the-last-index/ |
+| Day-94 | Separate the Digits in an Array | Easy | Array, Math, Simulation | https://leetcode.com/problems/separate-the-digits-in-an-array/ |
