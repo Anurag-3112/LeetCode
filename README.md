@@ -143,3 +143,4 @@ Each problem is organized **day-wise**, and every day contains:
 | Day-95 | Check if Array is Good | Easy | Array, Sorting, Hash Map | https://leetcode.com/problems/check-if-array-is-good/ |
 | Day-96 | Minimum Moves to Make Array Complementary | Medium | Array, Prefix Sum, Greedy | https://leetcode.com/problems/minimum-moves-to-make-array-complementary/ |
 | Day-97 | Minimum Initial Energy to Finish Tasks | Hard | Greedy, Sorting | https://leetcode.com/problems/minimum-initial-energy-to-finish-tasks/ |
+| Day-98 | Find Minimum in Rotated Sorted Array | Medium | Array, Binary Search | https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/ |
