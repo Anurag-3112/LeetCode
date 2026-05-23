@@ -147,3 +147,7 @@ Each problem is organized **day-wise**, and every day contains:
 | Day-99 | Find Minimum in Rotated Sorted Array II | Hard | Array, Binary Search | https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/ |
 | Day-100 | Jump Game III | Medium | Graph, BFS, DFS, Array | https://leetcode.com/problems/jump-game-iii/ |
 | Day-101 | Jump Game IV | Hard | Graph, BFS, Array, Hash Map | https://leetcode.com/problems/jump-game-iv/ |
+| Day-102 | Minimum Common Value | Easy | Mid Level, Array, Hash Table, Two Pointers, Binary Search | https://leetcode.com/problems/minimum-common-value/ |
+| Day-103 | Check if Array Is Sorted and Rotated | Easy | Array | https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/ |
+| Day-104 | Find the Length of the Longest Common Prefix | Medium | Trie, Hash Set, String | https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix/ |
+| Day-105 | Find the Prefix Common Array of Two Arrays | Medium | Array, Hash Map, Prefix Sum | https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays/ |
