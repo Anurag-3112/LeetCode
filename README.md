@@ -146,3 +146,4 @@ Each problem is organized **day-wise**, and every day contains:
 | Day-98 | Find Minimum in Rotated Sorted Array | Medium | Array, Binary Search | https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/ |
 | Day-99 | Find Minimum in Rotated Sorted Array II | Hard | Array, Binary Search | https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/ |
 | Day-100 | Jump Game III | Medium | Graph, BFS, DFS, Array | https://leetcode.com/problems/jump-game-iii/ |
+| Day-101 | Jump Game IV | Hard | Graph, BFS, Array, Hash Map | https://leetcode.com/problems/jump-game-iv/ |
