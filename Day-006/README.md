@@ -1,0 +1,6 @@
+# Day 006 – Longest Balanced Subarray II
+
+- **Problem Name:** Longest Balanced Subarray II
+- **Difficulty:** Hard
+- **Topic:** Array, Prefix Sum, Hash Map
+- **LeetCode Link:** https://leetcode.com/problems/longest-balanced-subarray-ii/
