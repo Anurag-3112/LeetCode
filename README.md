@@ -166,3 +166,10 @@ Each problem is organized **day-wise**, and every day contains:
 | Day-118 | Earliest Finish Time for Land and Water Rides I | Medium | Array, Simulation, Greedy | https://leetcode.com/problems/earliest-finish-time-for-land-and-water-rides-i/ |
 | Day-119 | Earliest Finish Time for Land and Water Rides II | Hard | Binary Search, Array, Simulation | https://leetcode.com/problems/earliest-finish-time-for-land-and-water-rides-ii/ |
 | Day-120 | Total Waviness of Numbers in Range I | Medium | Math, Digit DP, Dynamic Programming | https://leetcode.com/problems/total-waviness-of-numbers-in-range-i/ |
+| Day-121 | Number of Ways to Assign Edge Weights II | Hard | Tree, Dynamic Programming, Combinatorics | https://leetcode.com/problems/number-of-ways-to-assign-edge-weights-ii/ |
+| Day-122 | Number of Ways to Assign Edge Weights I | Medium | Tree, Math, Depth-First Search | https://leetcode.com/problems/number-of-ways-to-assign-edge-weights-i/ |
+| Day-123 | Maximum Total Subarray Value II | Hard | Array, Monotonic Stack, Heap (Priority Queue), Segment Tree | https://leetcode.com/problems/maximum-total-subarray-value-ii/ |
+| Day-124 | Maximum Total Subarray Value I | Medium | Array, Greedy, Math | https://leetcode.com/problems/maximum-total-subarray-value-i/ |
+| Day-125 | Partition Array According to Given Pivot | Medium | Array, Two Pointers, Simulation | https://leetcode.com/problems/partition-array-according-to-given-pivot/ |
+| Day-126 | Create Binary Tree From Descriptions | Medium | Tree, Hash Map, Binary Tree | https://leetcode.com/problems/create-binary-tree-from-descriptions/ |
+| Day-127 | Left and Right Sum Differences | Easy | Array, Prefix Sum | https://leetcode.com/problems/left-and-right-sum-differences/ |
