@@ -46,15 +46,15 @@ Each problem is organized **day-wise**, and every day contains:
 
 | Day | Problem Name | Difficulty | Topic | LeetCode Link |
 |----|-------------|------------|-------|---------------|
-| Day-01 | Two Sum | Easy | Array, HashMap | https://leetcode.com/problems/two-sum/ |
-| Day-02 | Minimum Deletions to Make String Balanced | Medium | String, Prefix Sum, Dynamic Programming, Greedy | https://leetcode.com/problems/minimum-deletions-to-make-string-balanced/ |
-| Day-03 | Balanced Binary Tree | Easy | Tree, Depth-First Search, Binary Tree | https://leetcode.com/problems/balanced-binary-tree/ |
-| Day-04 | Balance a Binary Search Tree | Medium | Binary Search Tree, Tree, Divide and Conquer, Inorder Traversal | https://leetcode.com/problems/balance-a-binary-search-tree/ |
-| Day-05 | Longest Balanced Subarray I | Medium | Array, Prefix Sum, Hash Map | https://leetcode.com/problems/longest-balanced-subarray-i/ |
-| Day-06 | Longest Balanced Subarray II | Hard | Array, Prefix Sum, Hash Map | https://leetcode.com/problems/longest-balanced-subarray-ii/ |
-| Day-07 | Longest Balanced Substring I | Medium | String, Two Pointers, Counting | https://leetcode.com/problems/longest-balanced-substring-i/ |
-| Day-08 | Longest Balanced Substring II | Medium | String, Sliding Window, Hash Map, Prefix Sum | https://leetcode.com/problems/longest-balanced-substring-ii/ |
-| Day-09 | Champagne Tower | Medium | Dynamic Programming, Simulation, Array | https://leetcode.com/problems/champagne-tower/ |
+| Day-001 | Two Sum | Easy | Array, HashMap | https://leetcode.com/problems/two-sum/ |
+| Day-002 | Minimum Deletions to Make String Balanced | Medium | String, Prefix Sum, Dynamic Programming, Greedy | https://leetcode.com/problems/minimum-deletions-to-make-string-balanced/ |
+| Day-003 | Balanced Binary Tree | Easy | Tree, Depth-First Search, Binary Tree | https://leetcode.com/problems/balanced-binary-tree/ |
+| Day-004 | Balance a Binary Search Tree | Medium | Binary Search Tree, Tree, Divide and Conquer, Inorder Traversal | https://leetcode.com/problems/balance-a-binary-search-tree/ |
+| Day-005 | Longest Balanced Subarray I | Medium | Array, Prefix Sum, Hash Map | https://leetcode.com/problems/longest-balanced-subarray-i/ |
+| Day-006 | Longest Balanced Subarray II | Hard | Array, Prefix Sum, Hash Map | https://leetcode.com/problems/longest-balanced-subarray-ii/ |
+| Day-007 | Longest Balanced Substring I | Medium | String, Two Pointers, Counting | https://leetcode.com/problems/longest-balanced-substring-i/ |
+| Day-008 | Longest Balanced Substring II | Medium | String, Sliding Window, Hash Map, Prefix Sum | https://leetcode.com/problems/longest-balanced-substring-ii/ |
+| Day-009 | Champagne Tower | Medium | Dynamic Programming, Simulation, Array | https://leetcode.com/problems/champagne-tower/ |
 | Day-010 | Add Binary | Easy | String, Math, Simulation | https://leetcode.com/problems/add-binary/ |
 | Day-011 | Reverse Bits | Easy | Bit Manipulation, Divide and Conquer | https://leetcode.com/problems/reverse-bits/ |
 | Day-012 | Binary Watch | Easy | Backtracking, Bit Manipulation, Enumeration | https://leetcode.com/problems/binary-watch/ |
@@ -151,3 +151,18 @@ Each problem is organized **day-wise**, and every day contains:
 | Day-103 | Check if Array Is Sorted and Rotated | Easy | Array | https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/ |
 | Day-104 | Find the Length of the Longest Common Prefix | Medium | Trie, Hash Set, String | https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix/ |
 | Day-105 | Find the Prefix Common Array of Two Arrays | Medium | Array, Hash Map, Prefix Sum | https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays/ |
+| Day-106 | Find the Length of the Longest Common Prefix | Medium | Trie, Hash Set, String | https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix/ |
+| Day-107 | Search in Rotated Sorted Array | Medium | Array, Binary Search | https://leetcode.com/problems/search-in-rotated-sorted-array/ |
+| Day-108 | Check if Array Is Sorted and Rotated | Easy | Array | https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/ |
+| Day-109 | Jump Game V | Hard | Array, Dynamic Programming, Depth-First Search, Monotonic Stack | https://leetcode.com/problems/jump-game-v/ |
+| Day-110 | Jump Game VII | Medium | String, Dynamic Programming, Sliding Window, Prefix Sum, Breadth-First Search | https://leetcode.com/problems/jump-game-vii/ |
+| Day-111 | Count the Number of Special Characters I | Easy | Hash Table, String | https://leetcode.com/problems/count-the-number-of-special-characters-i/ |
+| Day-112 | Count the Number of Special Characters II | Medium | Hash Table, String | https://leetcode.com/problems/count-the-number-of-special-characters-ii/ |
+| Day-113 | Longest Common Suffix Queries | Hard | Trie, String, Array | https://leetcode.com/problems/longest-common-suffix-queries/ |
+| Day-114 | Minimum Element After Replacement With Digit Sum | Easy | Array, Math | https://leetcode.com/problems/minimum-element-after-replacement-with-digit-sum/ |
+| Day-115 | Block Placement Queries | Hard | Segment Tree, Binary Indexed Tree, Ordered Set, Array | https://leetcode.com/problems/block-placement-queries/ |
+| Day-116 | Destroying Asteroids | Medium | Greedy, Sorting, Array | https://leetcode.com/problems/destroying-asteroids/ |
+| Day-117 | Minimum Cost of Buying Candies With Discount | Easy | Greedy, Sorting, Array | https://leetcode.com/problems/minimum-cost-of-buying-candies-with-discount/ |
+| Day-118 | Earliest Finish Time for Land and Water Rides I | Medium | Array, Simulation, Greedy | https://leetcode.com/problems/earliest-finish-time-for-land-and-water-rides-i/ |
+| Day-119 | Earliest Finish Time for Land and Water Rides II | Hard | Binary Search, Array, Simulation | https://leetcode.com/problems/earliest-finish-time-for-land-and-water-rides-ii/ |
+| Day-120 | Total Waviness of Numbers in Range I | Medium | Math, Digit DP, Dynamic Programming | https://leetcode.com/problems/total-waviness-of-numbers-in-range-i/ |
