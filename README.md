@@ -173,3 +173,13 @@ Each problem is organized **day-wise**, and every day contains:
 | Day-125 | Partition Array According to Given Pivot | Medium | Array, Two Pointers, Simulation | https://leetcode.com/problems/partition-array-according-to-given-pivot/ |
 | Day-126 | Create Binary Tree From Descriptions | Medium | Tree, Hash Map, Binary Tree | https://leetcode.com/problems/create-binary-tree-from-descriptions/ |
 | Day-127 | Left and Right Sum Differences | Easy | Array, Prefix Sum | https://leetcode.com/problems/left-and-right-sum-differences/ |
+| Day-128 | Process String with Special Operations I | Medium | String, Simulation | https://leetcode.com/problems/process-string-with-special-operations-i/ |
+| Day-129 | Delete the Middle Node of a Linked List | Medium | Linked List, Two Pointers | https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/ |
+| Day-130 | Maximum Twin Sum of a Linked List | Medium | Linked List, Two Pointers, Stack | https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/ |
+| Day-131 | Weighted Word Mapping | Easy | Array, String, Simulation | https://leetcode.com/problems/weighted-word-mapping/ |
+| Day-132 | Number of Ways to Assign Edge Weights II | Hard | Tree, Dynamic Programming, Combinatorics | https://leetcode.com/problems/number-of-ways-to-assign-edge-weights-ii/ |
+| Day-133 | Number of Ways to Assign Edge Weights I | Medium | Tree, Math, Depth-First Search | https://leetcode.com/problems/number-of-ways-to-assign-edge-weights-i/ |
+| Day-134 | Maximum Total Subarray Value II | Hard | Array, Monotonic Stack, Heap (Priority Queue), Segment Tree | https://leetcode.com/problems/maximum-total-subarray-value-ii/ |
+| Day-135 | Maximum Total Subarray Value I | Medium | Array, Greedy, Math | https://leetcode.com/problems/maximum-total-subarray-value-i/ |
+| Day-136 | Partition Array According to Given Pivot | Medium | Array, Two Pointers, Simulation | https://leetcode.com/problems/partition-array-according-to-given-pivot/ |
+| Day-137 | Create Binary Tree From Descriptions | Medium | Tree, Hash Map, Binary Tree | https://leetcode.com/problems/create-binary-tree-from-descriptions/ |
